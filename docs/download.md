@@ -53,6 +53,6 @@ const members = [
 <img src="/qqqunxiazai2.png"/>
 
 
-``` help
+``` txt
 有任何疑问或需要帮助，可在QQ群内联系管理。
 ```

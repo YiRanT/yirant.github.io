@@ -5,6 +5,7 @@ export default {
   description: "依燃是少年",
 
   themeConfig: {
+    
     siteTitle: false,
     logo:'./logo.png',
 
@@ -38,6 +39,20 @@ export default {
           { text: '游戏设定', link: '/basicsetting' },
           { text: '特色系统', link: '/specialsetting' },
           { text: '待更新...', link: ' ' },
+        ]
+      },
+      {
+        text: '依燃透视镜',
+        collapsed: false,
+        items: [
+          {
+            text: '武器',
+            collapsed: false,
+            items: [
+              { text: '匕首', link: 'weapon-dagger' },
+              { text: '待更新...', link: ' ' },
+            ]
+          }
         ]
       }
     ],
