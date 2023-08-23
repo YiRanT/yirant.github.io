@@ -1,0 +1,1 @@
+import{_ as o,o as e,c,X as d}from"./chunks/framework.37cee08b.js";const u=JSON.parse('{"title":"魅力 CHA","description":"","frontmatter":{},"headers":[],"relativePath":"attribute-cha.md","filePath":"attribute-cha.md"}'),r={name:"attribute-cha.md"},t=d("",10),a=[t];function i(l,n,s,b,h,_){return e(),c("div",null,a)}const p=o(r,[["render",i]]);export{u as __pageData,p as default};
