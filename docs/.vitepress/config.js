@@ -36,7 +36,7 @@ export default {
         text: '版本介绍',
         collapsed: false,
         items: [
-          { text: '游戏设定', link: '/basicsetting' },
+          { text: '基础设定', link: '/basicsetting' },
           { text: '特色系统', link: '/specialsetting' },
           { text: '依燃Plus', link: '/yiranplus' },
         ]
@@ -46,7 +46,7 @@ export default {
         collapsed: false,
         items: [
           {
-            text: '属性',
+            text: '• 属性',
             collapsed: false,
             items: [
               { text: '力量', link: 'attribute-str' },
@@ -58,7 +58,7 @@ export default {
             ]
           },
           {
-            text: '武器',
+            text: '• 武器',
             collapsed: false,
             items: [
               { text: '匕首', link: 'weapon-dagger' },
@@ -76,5 +76,19 @@ export default {
       copyright: 'Copyright © 2021-present 依燃天堂'
     },
     outlineTitle: '本页导航'
-  }
+  },
+  head: [
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-L80F9522RJ' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-L80F9522RJ');`
+    ]
+  ]
 }
