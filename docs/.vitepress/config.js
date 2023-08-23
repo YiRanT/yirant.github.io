@@ -38,13 +38,25 @@ export default {
         items: [
           { text: '游戏设定', link: '/basicsetting' },
           { text: '特色系统', link: '/specialsetting' },
-          { text: '待更新...', link: ' ' },
+          { text: '依燃Plus', link: '/yiranplus' },
         ]
       },
       {
-        text: '依燃透视镜',
+        text: '依燃百科',
         collapsed: false,
         items: [
+          {
+            text: '属性',
+            collapsed: false,
+            items: [
+              { text: '力量', link: 'attribute-str' },
+              { text: '敏捷', link: 'attribute-dex' },
+              { text: '智力', link: 'attribute-int' },
+              { text: '体质', link: 'attribute-con' },
+              { text: '精神', link: 'attribute-wis' },
+              { text: '魅力', link: 'attribute-cha' },
+            ]
+          },
           {
             text: '武器',
             collapsed: false,

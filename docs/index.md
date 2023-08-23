@@ -10,11 +10,11 @@ hero:
     alt: VitePress
   actions:
     - theme: brand
-      text: 版本介绍
-      link: /download
+      text: 版本介绍 📑
+      link: /basicsetting
     - theme: alt
       text: 高速下载 🚀
-      link: https://www.123pan.com/s/t02qVv-xGFxH.html
+      link: /download
 
 features:
   - icon: 💯
