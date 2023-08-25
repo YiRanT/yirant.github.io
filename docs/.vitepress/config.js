@@ -1,14 +1,12 @@
-// import { defineConfig } from 'vitepress'
-
 export default {
   title: "依燃天堂",
   description: "依燃是少年",
+  lang: 'zh-CN',
 
   themeConfig: {
     
     siteTitle: false,
     logo:'./logo.png',
-
     nav: [
       { text: 'Home', link: '/' },
       {
@@ -62,21 +60,25 @@ export default {
             collapsed: false,
             items: [
               { text: '匕首', link: 'weapon-dagger' },
-              { text: '待更新...', link: ' ' },
+              { text: '单手剑', link: 'weapon-sword' },
+              { text: '双手剑', link: 'weapon-twohandsword' },
             ]
           }
         ]
       }
     ],
+    
     search: {
       provider: 'local'
     },
+
     footer: {
       message: '<a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uZmEgD6gqidaNBfcfNazO-1QezuvHikJ&authKey=hpYpRVbc%2BavJa2TYWcbxlVP9vE1va1Z5Pt4FsTyDmhRPLxDxX6ZxsCumg%2B8kZZPN&noverify=0&group_code=491972184" target=_blank>点击加入QQ群</a>',
       copyright: 'Copyright © 2021-present 依燃天堂'
     },
     outlineTitle: '本页导航'
   },
+
   head: [
     [
       'script',
