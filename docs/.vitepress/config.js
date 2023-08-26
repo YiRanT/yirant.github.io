@@ -59,9 +59,12 @@ export default {
             text: '• 武器',
             collapsed: false,
             items: [
+              { text: '弓箭', link: 'weapon-bow' },
+              { text: '双刀', link: 'weapon-edoryu' },
               { text: '匕首', link: 'weapon-dagger' },
               { text: '单手剑', link: 'weapon-sword' },
               { text: '双手剑', link: 'weapon-twohandsword' },
+              
             ]
           }
         ]
