@@ -1,1 +1,0 @@
-import{_ as e,o,c as l,X as i}from"./chunks/framework.37cee08b.js";const h=JSON.parse('{"title":"游戏设定","description":"","frontmatter":{},"headers":[],"relativePath":"basicsetting.md","filePath":"basicsetting.md"}'),c={name:"basicsetting.md"},t=i("",19),d=[t];function a(s,r,n,p,u,_){return o(),l("div",null,d)}const m=e(c,[["render",a]]);export{h as __pageData,m as default};
