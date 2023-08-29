@@ -30,6 +30,7 @@
 | <center><img src="/weapon/3920.gif"/></center> 沙哈之弓 | 攻击：4 / 4<br>安定：6<br>材质：木<br>握持：双手 | 攻击成功 +2<br>额外攻击点数 +4<br>无箭会射出魔法箭(12/10) | 妖精 |
 | <center><img src="/weapon/w257.jpg"/></center> 炽炎天使弓 | 攻击：3 / 3<br>安定：6<br>材质：木<br>握持：双手 | 攻击成功 +3<br>额外攻击点数 +4<br>1%机率施展「爆裂矢」<br>使用武卷强化+1，魔法发动机率+1% | 妖精 |
 | <center><img src="/weapon/w316.jpg"/></center> 恶魔王 弓 | 攻击：3 / 3<br>安定：6<br>材质：黑色米索莉<br>握持：双手 | 攻击成功 +1<br>额外攻击点数 +6<br>随机施展「疾病术」<br>1%机率施展「天崩地裂」<br>使用武卷强化+1，魔法发动机率+1% | 妖精 |
+| <center><img src="/weapon/w251.jpg"/></center> 弑神者之弓 | 攻击：4 / 4<br>安定：0<br>材质：铁<br>握持：双手 | 敏捷+2<br>体质+2<br>攻击成功 +4<br>额外攻击点数 +7<br>3%机率施展「精灵矢」无视魔防<br>使用武卷强化+1，魔法发动机率+1% | 妖精 |
 | <center><img src="/weapon/w004.jpg"/></center> 箭 | 攻击：6 / 5<br>安定：N/A<br>材质：木<br>握持：配弓 |  |  |
 | <center><img src="/weapon/w041.jpg"/></center> 银箭 | 攻击：7 / 6<br>安定：N/A<br>材质：银<br>握持：配弓 | 不死系加成 |  |
 | <center><img src="/weapon/w041.jpg"/></center> 米索莉箭 | 攻击：10 / 9<br>安定：N/A<br>材质：米索莉<br>握持：配弓 | 不死系加成 |  |
