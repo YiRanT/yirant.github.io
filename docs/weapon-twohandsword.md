@@ -12,7 +12,7 @@
 | <center><img src="/weapon/w109.jpg"/></center> 巨剑 | 攻击：20 / 17<br>安定：6<br>材质：铁<br>握持：双手 |  | 王族<br>骑士 |
 | <center><img src="/weapon/w040.jpg"/></center> 受封印 被遗忘的巨剑 | 攻击：5 / 6<br>安定：0<br>材质：铁<br>握持：双手 | 攻击成功 +3<br>额外攻击点数 +3<br>限制等级 Lv.45<br>使用「古代的卷轴」解除封 | 王族<br>骑士 |
 | <center><img src="/weapon/w112.jpg"/></center> 古老的巨剑 | 攻击：27 / 45<br>安定：N/A<br>材质：铁<br>握持：双手 | 攻击成功 +3<br>额外攻击点数 +3<br>限制等级 Lv.45 | 王族<br>骑士 |
-| <center><img src="/weapon/0181.gif"/></center> 屠龙剑 | 攻击：28 / 36<br>安定：6<br>材质：金属<br>握持：双手 | 攻击成功 +5<br>额外攻击点数 +8 | 骑士 |
+| <center><img src="/weapon/0181.gif"/></center> 屠龙剑 | 攻击：28 / 36<br>安定：6<br>材质：金属<br>握持：双手 | 攻击成功 +5<br>额外攻击点数 +8<br>不会损坏 | 骑士 |
 | <center><img src="/weapon/w158.jpg"/></center> 骑士范德之剑 | 攻击：22 / 34<br>安定：6<br>材质：金属<br>握持：双手 | 攻击成功 -1<br>额外攻击点数 +5<br>昏迷命中 +5 | 骑士 |
 | <center><img src="/weapon/w312.jpg"/></center> 恶魔王 双手剑 | 攻击：23 / 24<br>安定：6<br>材质：黑色米索莉<br>握持：双手 | 攻击成功 +1<br>额外攻击点数 +5<br>不会损坏<br>随机施展「疾病术」<br>1%机率施展「天崩地裂」<br>使用武卷强化+1，魔法发动机率+1% | 骑士 |
 | <center><img src="/weapon/3088.gif"/></center> 真·冥皇执行剑 | 攻击：28 / 33<br>安定：0<br>材质：黑色米索莉<br>握持：双手 | 力量 +2<br>攻击成功 +5<br>额外攻击点数 +23<br>不会损坏<br>昏迷命中 +10 | 王族<br>骑士 |

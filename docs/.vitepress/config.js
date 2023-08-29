@@ -52,7 +52,7 @@ export default {
               { text: '智力', link: 'attribute-int' },
               { text: '体质', link: 'attribute-con' },
               { text: '精神', link: 'attribute-wis' },
-              { text: '魅力', link: 'attribute-cha' },
+              { text: '魅力', link: 'attribute-cha' }
             ]
           },
           {
@@ -68,6 +68,13 @@ export default {
               { text: '钢爪', link: 'weapon-claw' },
               { text: '斧头', link: 'weapon-blunt' },
               { text: '长矛', link: 'weapon-spear' }              
+            ]
+          },
+          {
+            text: '• 防具',
+            collapsed: true,
+            items: [
+              { text: '项链', link: 'armor-amulet' },            
             ]
           }
         ]
