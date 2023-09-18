@@ -72,9 +72,10 @@ export default {
           },
           {
             text: '• 防具',
-            collapsed: true,
+            collapsed: false,
             items: [
-              { text: '项链', link: 'armor-amulet' },            
+              { text: '项链', link: 'armor-amulet' },
+              { text: '耳环', link: 'armor-earring' },   
             ]
           }
         ]
