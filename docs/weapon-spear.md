@@ -2,7 +2,6 @@
 
 | 名称 | 基础 | 属性| 职业 |
 | :--: | :--- | :---| :--- |
-| <center><img src="/weapon/w031.jpg"/></center> 露西锤 | 攻击：15 / 17<br>安定：6<br>材质：铁<br>握持：双手 | 攻击成功 +3 | 王族<br>骑士 |
 | <center><img src="/weapon/w102.jpg"/></center> 潘的角 | 攻击：3 / 4<br>安定：6<br>材质：骨头<br>握持：单手 |  | 王族<br>骑士<br>法师<br>妖精 |
 | <center><img src="/weapon/w100.jpg"/></center> 覆上米索莉的角 | 攻击：4 / 4<br>安定：6<br>材质：金属<br>握持：单手 |  | 王族<br>骑士<br>法师<br>妖精 |
 | <center><img src="/weapon/w044.jpg"/></center> 欧西斯之矛 | 攻击：4 / 6<br>安定：6<br>材质：铁<br>握持：单手 |  | 王族<br>骑士<br>法师<br>妖精 |
@@ -17,6 +16,7 @@
 | <center><img src="/weapon/w008.jpg"/></center> 柴刀 | 攻击：10 / 17<br>安定：6<br>材质：铁<br>握持：双手 |  | 王族<br>骑士 |
 | <center><img src="/weapon/w024.jpg"/></center> 吉萨 | 攻击：12 / 14<br>安定：6<br>材质：铁<br>握持：双手 |  | 王族<br>骑士<br>妖精 |
 | <center><img src="/weapon/w023.jpg"/></center> 阔矛 | 攻击：12 / 16<br>安定：6<br>材质：铁<br>握持：双手 |  | 王族<br>骑士<br>妖精 |
+| <center><img src="/weapon/w031.jpg"/></center> 露西锤 | 攻击：15 / 17<br>安定：6<br>材质：铁<br>握持：双手 | 攻击成功 +3 | 王族<br>骑士 |
 | <center><img src="/weapon/w026.jpg"/></center> 戟 | 攻击：16 / 12<br>安定：6<br>材质：铁<br>握持：双手 |  | 王族<br>骑士 |
 | <center><img src="/weapon/w021.jpg"/></center> 法丘 | 攻击：16 / 16<br>安定：6<br>材质：奥里哈鲁根<br>握持：双手 | 攻击成功 +3<br>不死系加成 | 王族<br>骑士<br>妖精 |
 | <center><img src="/weapon/w020.jpg"/></center> 贝卡合金 | 攻击：17 / 17<br>安定：6<br>材质：铁<br>握持：双手 | 不会损坏 | 骑士 |
